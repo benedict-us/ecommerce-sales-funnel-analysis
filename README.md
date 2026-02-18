@@ -20,7 +20,7 @@ I work with tools like SQL Server, Excel, and Power BI to translate data into ac
 When I'm not working with data, I enjoy jogging, reading, following sports, exploring nature, and diving into anime. I thrive on those “aha!” moments when data tells a story that drives meaningful impact.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://benedict-us.github.io/)
+<!-- ### [🏆 Check Out My Full Portfolio Website](https://benedict-us.github.io/)-->
       
 ## 🔭 What I'm Currently Working On 
 
