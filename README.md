@@ -47,7 +47,7 @@ When I'm not working with data, I enjoy jogging, reading, following sports, expl
 
 #### Product & Business Analytics
 <p>
-  <img src="https://img.shields.io/badge/KPI%20Design%20&%20Performance%20Tracking-Advanced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Design%20&%20Performance%20Tracking-Intermediate-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Sales%20Analysis-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Financial%20Modeling%20&%20Forecasting-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/Product%20Metrics%20&%20User%20Behavior%20Analysis-Beginner-96CEB4?style=flat" alt="KPI Development Skill Badge">
