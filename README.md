@@ -24,14 +24,14 @@ When I'm not working with data, I enjoy jogging, reading, following sports, expl
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Conducting a sales funnel analysis using Google BigQuery, analyzing user journey data, identifying drop-off points, and calculating conversion rates to optimize product and revenue performance. 
+- **Project B:** Building interactive Power BI dashboards focused on performance tracking and operational efficiency, applying real-world business and higher education metrics.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Cloud data warehousing with Google BigQuery
+- Advanced SQL for analytics and performance optimization
+- Product analytics techniques (cohort analysis, funnel tracking, KPI measurement)
 
 ## 🛠️ Technical Skillset
 
