@@ -30,7 +30,7 @@ When I'm not working with data, I enjoy jogging, reading, following sports, expl
 ## 🌱 Currently Learning 
 
 - Cloud data warehousing with Google BigQuery
-- Advanced SQL for analytics and performance optimization
+- Advanced SQL for analytics and performance optimisation
 - Product analytics techniques (cohort analysis, funnel tracking, KPI measurement)
 - Modern analytics with Microsoft Fabric
 
