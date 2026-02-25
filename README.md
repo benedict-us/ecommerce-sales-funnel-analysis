@@ -24,7 +24,7 @@ When I'm not working with data, I enjoy jogging, reading, following sports, expl
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Conducting a sales funnel analysis using Google BigQuery, analyzing user journey data, identifying drop-off points, and calculating conversion rates to optimize product and revenue performance. 
+- **Project A:** Conducting a sales funnel analysis using Google BigQuery, analyzing customer journey data, identifying drop-off points, and calculating conversion rates to optimise product and revenue performance. 
 - **Project B:** Building interactive Power BI dashboards focused on performance tracking and operational efficiency, applying real-world business and higher education metrics.
 
 ## 🌱 Currently Learning 
